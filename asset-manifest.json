@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onlinetreasurehuntdashboard/static/css/main.414e8376.css",
+    "main.js": "/onlinetreasurehuntdashboard/static/js/main.4d0750d7.js",
+    "index.html": "/onlinetreasurehuntdashboard/index.html",
+    "main.414e8376.css.map": "/onlinetreasurehuntdashboard/static/css/main.414e8376.css.map",
+    "main.4d0750d7.js.map": "/onlinetreasurehuntdashboard/static/js/main.4d0750d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414e8376.css",
+    "static/js/main.4d0750d7.js"
+  ]
+}
